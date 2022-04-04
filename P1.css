@@ -1,0 +1,10 @@
+body {
+    background:linear-gradient(90deg, Red, Orange, Yellow, Green, Blue, Indigo,violet);
+}
+
+.background {
+    display: flex;
+    justify-content: center;
+    padding: 100px;
+    flex-grow: initial; 
+}
