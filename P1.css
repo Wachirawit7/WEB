@@ -1,5 +1,5 @@
 body {
-    background:linear-gradient(90deg, Red, Orange, Yellow, Green, Blue, Indigo,violet);
+    background-image: url(./header.jpg) ;
 }
 
 .background {
